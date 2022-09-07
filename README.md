@@ -1,6 +1,6 @@
 # applet
-一些小程序小脚本
+一些小程序小脚本合集
 
-* 小说合并浏览器扩展 | javascript | (NovelMerge)[js/novelMerge/readMe.md]
+* (Python)[python/]
 
-* 争渡网客户端 | python | (zdhkClient)[python/zdhkClient/readMe.md]
+* (Javascript)[js/]

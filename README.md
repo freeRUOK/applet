@@ -3,4 +3,4 @@
 
 * [NovelMerge](js/novelMerge/) | 一个自动下载dudu0.com上小说的浏览器扩展  
 
-* [zdhkClient](js/zdhkClient/) | 争渡网简易客户端  
+* [zdhkClient](python/zdhkClient/) | 争渡网简易客户端  

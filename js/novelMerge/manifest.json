@@ -1,0 +1,12 @@
+{
+  "name": "novelMerge", 
+  "version": "1.0", 
+  "description": "小说章节合并", 
+  "manifest_version": 3, 
+  "content_scripts": [
+  {
+      "matches": ["*://www.dudu0.com/xs*"], 
+      "js": ["main.js"]
+    }
+  ]
+}

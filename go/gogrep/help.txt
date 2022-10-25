@@ -1,0 +1,6 @@
+This Is Function similarity Linux grep Tool
+Usage gogrep [run_mod] [target_host] host_name keyword base_directory
+run_mod = service | default: client search
+[target_host] host_name = host_name | default: localhost
+keyword = search text
+base_directory =  search Begin Directory
